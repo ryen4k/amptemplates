@@ -1,0 +1,18 @@
+[
+    {
+        "UpdateStageName": "Github Update",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "BeamMP-Server-ubuntu-22.04",
+        "UpdateSourceArgs": "https://github.com/BeamMP/BeamMP-Server",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
